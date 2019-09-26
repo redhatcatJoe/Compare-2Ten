@@ -8,7 +8,7 @@ public class Comparator {
         String r ="nothing";
         int a1 = Integer.parseInt (a) - 10;
         int b1= Integer.parseInt (b) - 10;
-        a1 = abc (a1);        //positive number
+        a1 = abc (a1);        //positive numberrr
         b1 = abc (b1);       //
         if (a1 >b1)
             r = "b close to 10";
